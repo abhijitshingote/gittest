@@ -1,3 +1,0 @@
-first line
-this line from local
-this line from github.com
