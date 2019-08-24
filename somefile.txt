@@ -1,6 +1,0 @@
-firstline
-<<<<<<< HEAD
-local repo added line
-=======
-added thru github.com
->>>>>>> ede92d10d5a3fb8243db0b6041c23ce53f798a0a
